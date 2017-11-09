@@ -1,0 +1,86 @@
+{
+    "Cameras" : [
+        {
+            "camera_id": 1,
+            "images": [
+                {
+                    "file_size": 33334
+                },
+                {
+                    "file_size": 42048
+                },
+                {
+                    "file_size": 1024
+                }
+            ]
+        },
+        {
+            "camera_id": 2,
+            "images": [
+                {
+                    "file_size": 534
+                },
+                {
+                    "file_size": 4203423
+                },
+                {
+                    "file_size": 6788
+                },
+                {
+                    "file_size": 78654
+                }
+            ]
+        },
+        {
+            "camera_id": 3,
+            "images": [
+                {
+                    "file_size": 12
+                }
+            ]
+        },
+        {
+            "camera_id": 4,
+            "images": [
+                {
+                    "file_size": 23442
+                },
+                {
+                    "file_size": 6760
+                },
+                {
+                    "file_size": 56544
+                },
+                {
+                    "file_size": 456
+                },
+                {
+                    "file_size": 97890
+                }
+            ]
+        },
+        {
+            "camera_id": 5,
+            "images": [
+                {
+                    "file_size": 19
+                },
+                {
+                    "file_size": 9098
+                },
+                {
+                    "file_size": 234534
+                },
+                {
+                    "file_size": 12136
+                },
+                {
+                    "file_size": 565656
+                },
+                {
+                    "file_size": 23234
+                }
+            ]
+        }
+    ]
+}
